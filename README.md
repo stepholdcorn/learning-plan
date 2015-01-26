@@ -28,7 +28,7 @@ Plan
 -------
 
 This week's plan:
-Day 1: JavaScript and the SOLID principles. Write a program in JavaScript.
-Day 2: Further look into JQuery. Write the JQuery for the program.
-Day 3: HTML and CSS. Implement the design of the program.
-Day 4: Look back at using databases in Ruby.
+* Day 1: JavaScript and the SOLID principles. Write a program in JavaScript.
+* Day 2: Further look into JQuery. Write the JQuery for the program.
+* Day 3: HTML and CSS. Implement the design of the program.
+* Day 4: Look back at using databases in Ruby.
